@@ -1,4 +1,3 @@
-package Chapter01.git-Java-01;
 
 public class _03_variables {
     public static void main(String[] args) {
