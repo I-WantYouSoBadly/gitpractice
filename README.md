@@ -1,4 +1,4 @@
-# gitpractice
+# gitpractice-mainbranch
 
 깃헙연습장
 
