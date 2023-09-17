@@ -1,0 +1,156 @@
+[33mcommit ef1061c0eedf20c74e90fd20a6d47bf2dab061c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Znokir <jh040912@naver.com>
+Date:   Mon Aug 21 03:44:19 2023 +0900
+
+    2308021s
+
+[33mcommit 7ca8e083d1819a2fac78bda06ccdf14223c7856c[m
+Author: Znokir <jh040912@naver.com>
+Date:   Mon Aug 21 03:43:45 2023 +0900
+
+    2308021s
+
+[33mcommit f007d33940f703494bd91d31141c730a3e01915e[m
+Author: Znokir <jh040912@naver.com>
+Date:   Fri Aug 18 02:04:49 2023 +0900
+
+    2308018s
+
+[33mcommit f8824ded36fd0f292ff17057ff5e699e96fdee4b[m
+Author: Znokir <jh040912@naver.com>
+Date:   Tue Aug 15 02:56:35 2023 +0900
+
+    2308015s
+
+[33mcommit e0a5ed9e64307b3156783a5fc7e6582d7929bed7[m
+Author: Znokir <jh040912@naver.com>
+Date:   Fri Aug 4 05:31:05 2023 +0900
+
+    230804s
+
+[33mcommit 64f650a5e5f5e754b25c74cad2c530d3242e5461[m
+Author: Znokir <jh040912@naver.com>
+Date:   Wed Aug 2 07:06:58 2023 +0900
+
+    230802s
+
+[33mcommit 18a2083f395813f08d11b3867906cb64af6305dd[m
+Author: Znokir <jh040912@naver.com>
+Date:   Tue Aug 1 01:41:23 2023 +0900
+
+    230801s
+
+[33mcommit ca95e3fa763f7d6adb6c4940e0db3961e1d0dee7[m
+Author: Znokir <jh040912@naver.com>
+Date:   Sat Jul 29 05:50:16 2023 +0900
+
+    230729s
+
+[33mcommit d475129e562bd73a44e242610dbfda5d417fe76c[m
+Merge: d480fde 1f2d0f1
+Author: Znokir <jh040912@naver.com>
+Date:   Fri Jul 28 03:19:56 2023 +0900
+
+    Merge branch 'master' of https://github.com/I-WantYouSoBadly/gitpractice
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit d480fde6b3278241a31d6a1b5581aa391969f501[m
+Author: Znokir <jh040912@naver.com>
+Date:   Fri Jul 28 03:18:15 2023 +0900
+
+    230728s
+
+[33mcommit 1f2d0f17b30570a4ed38a76f53e6aac387d6130b[m
+Author: Znokir <139128705+I-WantYouSoBadly@users.noreply.github.com>
+Date:   Wed Jul 26 06:39:09 2023 +0900
+
+    Update README.md
+
+[33mcommit 20abc1c3d4743fa18c3746b081698798e1c748fb[m
+Author: Znokir <139128705+I-WantYouSoBadly@users.noreply.github.com>
+Date:   Wed Jul 26 06:37:20 2023 +0900
+
+    Update README.md
+
+[33mcommit c1fff1f9a432228f6236334c1222b3524b603a04[m
+Author: Znokir <jh040912@naver.com>
+Date:   Wed Jul 26 06:31:36 2023 +0900
+
+    230726s
+
+[33mcommit 184e32f8a05e9ea286fa2b6ab61157715fb42ec8[m
+Author: Znokir <jh040912@naver.com>
+Date:   Mon Jul 24 04:58:57 2023 +0900
+
+    230724s
+
+[33mcommit 89e1637a71f2b4920a6f6e6917556e99c67c9632[m
+Author: Znokir <jh040912@naver.com>
+Date:   Sun Jul 23 04:41:17 2023 +0900
+
+    230723s
+
+[33mcommit 20a8a8a0d019a30a5b58fcf39971a50c008ba216[m
+Author: Znokir <jh040912@naver.com>
+Date:   Sat Jul 22 00:03:19 2023 +0900
+
+    230722s
+
+[33mcommit e9cee89684631cf43b666eabb2525a7eb6caeb6d[m
+Author: Znokir <jh040912@naver.com>
+Date:   Wed Jul 19 22:17:03 2023 +0900
+
+    230719s
+
+[33mcommit 0b72810ec6874c573727e8a11c1099f910b7396a[m
+Author: Znokir <139128705+I-WantYouSoBadly@users.noreply.github.com>
+Date:   Tue Jul 18 02:21:14 2023 +0900
+
+    fixed error for _14_Arrays.java
+
+[33mcommit 7c09680e189669f64d858fa4271e10460d8a4d0f[m
+Author: Znokir <jh040912@naver.com>
+Date:   Tue Jul 18 02:18:43 2023 +0900
+
+    230718s
+
+[33mcommit 1b64fbb77f0c5592281881ac89bd5322fa4c5213[m
+Author: Znokir <jh040912@naver.com>
+Date:   Sun Jul 16 02:38:12 2023 +0900
+
+    230716
+    
+    git commit -m
+
+[33mcommit e8e47e3a0185ca2d9cb94d202bd982449f9b3456[m
+Merge: 47f06c7 06bc4b3
+Author: I-WantYouSoBadly <jh040912@naver.com>
+Date:   Fri Jul 14 02:08:05 2023 +0900
+
+    Merge branch 'master' of https://github.com/I-WantYouSoBadly/gitpractice
+
+[33mcommit 47f06c7f28e9aa233c2dad7d17037f8d8e24b645[m
+Author: I-WantYouSoBadly <jh040912@naver.com>
+Date:   Fri Jul 14 02:06:39 2023 +0900
+
+    2307814 Studied
+
+[33mcommit 06bc4b3fd37846472bd5b7e7089fe5036d3cdb3a[m
+Author: Znokir <139128705+I-WantYouSoBadly@users.noreply.github.com>
+Date:   Thu Jul 13 04:32:03 2023 +0900
+
+    Create README.md
+
+[33mcommit aef015e177b54f24e275fdd0cdce013b6ab2699d[m
+Author: I-WantYouSoBadly <jh040912@naver.com>
+Date:   Thu Jul 13 01:02:16 2023 +0900
+
+    230713 learned thingy
+
+[33mcommit ed2efadffcee8d6011ea0b4830db23c75e9ce19b[m
+Author: I-WantYouSoBadly <jh040912@naver.com>
+Date:   Wed Jul 12 01:13:49 2023 +0900
+
+    New Files
